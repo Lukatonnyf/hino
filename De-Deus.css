@@ -1,0 +1,14 @@
+body {
+  background-color: #fff;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hinos-2 {
+  text-align: center;
+}
